@@ -1,5 +1,5 @@
 # TBDBalloon
-Team Game Jam Project with the theme as Repair
+Team Global Game Jam Project with the theme as Repair
 
 Authors:
 Graham Hill
