@@ -2,8 +2,8 @@
 Team Global Game Jam Project with the theme as Repair
 
 Authors:
-Graham Hill
-Gabriel Ibarra
-Edgar Cobos
-Jordan Davis
-Daniel Alvarez
+Graham Hill \n
+Gabriel Ibarra \n
+Edgar Cobos \n
+Jordan Davis \n
+Daniel Alvarez \n
